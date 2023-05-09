@@ -1,1 +1,2 @@
-# python basic program from scratch
+# python basic program from zero to intermidiate
+
